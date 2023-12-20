@@ -1,0 +1,29 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 16.5px;
+    color:rgb(54, 54, 203);
+}
+
+body
+{
+background-size: cover;
+}
+
+.change_name
+{
+font-size: 25px;
+border-radius: 23px
+font-colour: pink;
+}
+
+canvas{
+    border:5px purple;
+    border-radius:20px;
+}
